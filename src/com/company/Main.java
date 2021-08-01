@@ -12,7 +12,7 @@ public class Main {
             //изменения в feature-2(2)
         }
         {
-            //изминения в  feature-2-bugfix
+            //изменения в  feature-2-bugfix
         }
     }
 
