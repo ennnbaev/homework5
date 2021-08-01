@@ -8,8 +8,7 @@ public class Main {
 
         }
         {
-            //изминения в  feature-2
-
+            //изменения в  feature-2
         }
         {
             //изминения в  feature-2-bugfix
